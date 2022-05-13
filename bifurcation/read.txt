@@ -1,0 +1,1 @@
+Solving an equation and plotting a bifurcation plot with python
